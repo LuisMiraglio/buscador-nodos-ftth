@@ -1,0 +1,29 @@
+# Entorno virtual de Python
+venv/
+.env
+
+# Archivos de compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de log y temporales
+*.log
+*.tmp
+*.temp
+
+# Configuración de VSCode y otros editores
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de PyInstaller
+build/
+*.spec
+
+# Carpetas de test (si tuvieras)
+tests/__pycache__/
